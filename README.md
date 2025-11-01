@@ -11,12 +11,12 @@ It automatically downloads the dataset from Kaggle (UCI SMS Spam Collection) and
 
 git clone https://github.com/<your-username>/sms-spam-detection-lstm.git
 cd sms-spam-detection-lstm
-2️⃣ Create Virtual Environment
+  2️⃣ Create Virtual Environment
 python -m venv venv
 venv\Scripts\activate   # For Windows
-3️⃣ Install Dependencies
+  3️⃣ Install Dependencies
 pip install -r requirements.txt
-4️⃣ Run the Model
+  4️⃣ Run the Model
 python sms_spam_lstm.py
 🧱 Model Architecture
 
